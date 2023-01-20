@@ -20,4 +20,6 @@ CREATE TABLE DbTohaNTT.dbo.ParkingLot (
 
 Config connection String at settings.json at block string : SQLConnectionString
 
+
+
 If Setting Total slot is not available, default is 6
